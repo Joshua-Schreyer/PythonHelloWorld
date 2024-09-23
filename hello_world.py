@@ -7,7 +7,7 @@ Joshua Schreyer - 2024
 
 
 def main():
-  print ("Hello, world!")
+  print("Hello, world!")
 
 
 
